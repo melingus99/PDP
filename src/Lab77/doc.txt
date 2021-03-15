@@ -1,0 +1,40 @@
+Size of array1: 8 
+Size of array2: 8 
+Number of processes: 4 
+Regular Linear Time: 0.0 
+Karatsuba Linear Time: 0.0 
+Regular Parallel Time: 0.0009999275207519531 
+Karatsuba Parallel Time: 0.0 
+ 
+Size of array1: 128 
+Size of array2: 128 
+Number of processes: 4 
+Regular Linear Time: 0.0019991397857666016 
+Karatsuba Linear Time: 0.005034923553466797 
+Regular Parallel Time: 0.0029659271240234375 
+Karatsuba Parallel Time: 0.0009989738464355469 
+ 
+Size of array1: 1024 
+Size of array2: 1024 
+Number of processes: 4 
+Regular Linear Time: 0.18419885635375977 
+Karatsuba Linear Time: 0.12879109382629395 
+Regular Parallel Time: 0.05300092697143555 
+Karatsuba Parallel Time: 0.042964935302734375 
+ 
+Size of array1: 4096 
+Size of array2: 4096 
+Number of processes: 4 
+Regular Linear Time: 2.9768970012664795 
+Karatsuba Linear Time: 1.1709401607513428 
+Regular Parallel Time: 0.9854171276092529 
+Karatsuba Parallel Time: 0.7659668922424316 
+ 
+Size of array1: 8192 
+Size of array2: 8192 
+Number of processes: 4 
+Regular Linear Time: 12.841003179550171 
+Karatsuba Linear Time: 3.6845338344573975 
+Regular Parallel Time: 3.9711499214172363 
+Karatsuba Parallel Time: 3.0785908699035645 
+ 

@@ -1,0 +1,60 @@
+dsm updated 
+dsm updated 
+dsm updated 
+variable c had already value 0
+variable c had already value 0
+variable c had already value 0
+variable c had already value 0
+variable c has been changed to 7 by 1
+variable c has been changed to 9 by 1
+variable b has been changed to 13 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 11 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 11 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 12 by 2
+variable c had already value 2
+variable b has been changed to 14 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 11 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 11 by 2
+variable b has been changed to 11 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 12 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 14 by 2
+variable b has been changed to 15 by 2
+variable b has been changed to 13 by 2
+variable b has been changed to 14 by 2
+dsm closing 

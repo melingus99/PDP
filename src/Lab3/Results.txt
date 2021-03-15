@@ -1,0 +1,37 @@
+
+Size of matrix: (4, 3) 
+Number of threads: 3 
+Linear Time: 0.0 
+Thread Time: 0.0009999275207519531 
+Pool Time: 0.001001119613647461 
+
+Size of matrix: (4, 3) 
+Number of threads: 7 
+Linear Time: 0.0 
+Thread Time: 0.0014491081237792969 
+Pool Time: 0.0019969940185546875 
+
+Size of matrix: (100, 100) 
+Number of threads: 3 
+Linear Time: 0.19299817085266113 
+Thread Time: 0.2080368995666504 
+Pool Time: 0.29902005195617676 
+
+Size of matrix: (100, 100) 
+Number of threads: 7 
+Linear Time: 0.2010338306427002 
+Thread Time: 0.20101618766784668 
+Pool Time: 0.6983308792114258 
+
+Size of matrix: (500, 500) 
+Number of threads: 3 
+Linear Time: 28.13942003250122 
+Thread Time: 26.376426935195923 
+Pool Time: 31.017499923706055 
+
+Size of matrix: (500, 500) 
+Number of threads: 7 
+Linear Time: 26.69626784324646 
+Thread Time: 26.51398515701294 
+Pool Time: 70.4827139377594 
+

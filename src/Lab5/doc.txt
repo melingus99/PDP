@@ -1,0 +1,56 @@
+Size of array1: 2048 
+Size of array2: 2048 
+Number of threads: 9 
+Regular Linear Time: 1.4271869659423828 
+Regular Parallel Time: 1.2315211296081543 
+Karatsuba Linear Time: 0.5580029487609863 
+Karatsuba Parallel Time: 0.43600010871887207 
+
+Size of array1: 2048 
+Size of array2: 2048 
+Number of threads: 27 
+Regular Linear Time: 1.042999029159546 
+Regular Parallel Time: 1.103559970855713 
+Karatsuba Linear Time: 0.3892550468444824 
+Karatsuba Parallel Time: 0.2793388366699219 
+
+Size of array1: 8192 
+Size of array2: 8192 
+Number of threads: 81 
+Regular Linear Time: 17.442774057388306 
+Regular Parallel Time: 19.898282051086426 
+Karatsuba Linear Time: 3.679069995880127 
+Karatsuba Parallel Time: 3.5266458988189697 
+
+Size of array1: 8192 
+Size of array2: 8192 
+Number of threads: 27 
+Regular Linear Time: 17.14338207244873 
+Regular Parallel Time: 18.873562812805176 
+Karatsuba Linear Time: 3.5617120265960693 
+Karatsuba Parallel Time: 4.816666126251221 
+
+Size of array1: 8192 
+Size of array2: 8192 
+Number of threads: 9 
+Regular Linear Time: 16.06763195991516 
+Regular Parallel Time: 17.382503986358643 
+Karatsuba Linear Time: 3.596451997756958 
+Karatsuba Parallel Time: 6.836638927459717 
+
+Size of array1: 1024 
+Size of array2: 1024 
+Number of threads: 3 
+Regular Linear Time: 0.28290414810180664 
+Regular Parallel Time: 0.3060288429260254 
+Karatsuba Linear Time: 0.12800216674804688 
+Karatsuba Parallel Time: 0.1269679069519043 
+
+Size of array1: 1024 
+Size of array2: 1024 
+Number of threads: 3 
+Regular Linear Time: 0.32999110221862793 
+Regular Parallel Time: 0.31200599670410156 
+Karatsuba Linear Time: 0.13501381874084473 
+Karatsuba Parallel Time: 0.14098715782165527 
+

@@ -1,0 +1,139 @@
+Tests:
+All tests had 100 experiments done on a PC with 8GB RAM and Intel Core i7-8750H 2.20GHz CPU
+
+ 
+1.  Number of primary variables:100 
+Locks:yes 
+Number of elements summed to a secondary variable:2 
+Number of Threads:10 
+Number of times primary variables were changed:10000 
+Average time:0.26357479095458985 
+standard dev:0.06099700685568027 
+Minimum time:0.19414496421813965 
+Maximum time:0.407397985458374 
+correct sums:100% 
+ 
+2.  Number of primary variables:100
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:10 
+Number of times primary variables were changed:10000 
+Average time:0.06491876363754273 
+standard dev:0.036529819680307295 
+Minimum time:0.03786802291870117 
+Maximum time:0.1910839080810547 
+correct sums:51% 
+ 
+3.  Number of primary variables:100 
+Locks:yes 
+Number of elements summed to a secondary variable:2 
+Number of Threads:5 
+Number of times primary variables were changed:10000 
+Average time:0.2413033676147461 
+standard dev:0.05203260342863973 
+Minimum time:0.1939709186553955 
+Maximum time:0.416471004486084 
+correct sums:100% 
+ 
+4.  Number of primary variables:100 
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:5 
+Number of times primary variables were changed:10000 
+Average time:0.06958702564239502 
+standard dev:0.042186020911336934 
+Minimum time:0.03580904006958008 
+Maximum time:0.1930100917816162 
+correct sums:56% 
+ 
+5.  Number of primary variables:100 
+Locks:yes 
+Number of elements summed to a secondary variable:2 
+Number of Threads:2 
+Number of times primary variables were changed:10000 
+Average time:0.2350896430015564 
+standard dev:0.06188165024849214 
+Minimum time:0.18421697616577148 
+Maximum time:0.39999818801879883 
+correct sums:100% 
+ 
+6.  Number of primary variables:100 
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:2 
+Number of times primary variables were changed:10000 
+Average time:0.06689810276031494 
+standard dev:0.03699090411695598 
+Minimum time:0.044998884201049805 
+Maximum time:0.18000507354736328 
+correct sums:46%
+ 
+7.  Number of primary variables:100 
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:1 
+Number of times primary variables were changed:10000 
+Average time:0.04724275350570679 
+standard dev:0.006694770226041032 
+Minimum time:0.037863969802856445 
+Maximum time:0.07196784019470215 
+correct sums:100%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+8.  Number of primary variables:10000 
+Locks:yes 
+Number of elements summed to a secondary variable:2 
+Number of Threads:10 
+Number of times primary variables were changed:10000 
+Average time:0.4403842878341675 
+standard dev:0.07158194187280398 
+Minimum time:0.3206329345703125 
+Maximum time:0.6273350715637207 
+correct sums:100% 
+ 
+9.  Number of primary variables:10000 
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:10 
+Number of times primary variables were changed:10000 
+Average time:0.09746230363845826 
+standard dev:0.04649789195211257 
+Minimum time:0.0694580078125 
+Maximum time:0.24296307563781738 
+correct sums:30% 
+ 
+10.  Number of primary variables:10000 
+Locks:yes 
+Number of elements summed to a secondary variable:2 
+Number of Threads:4 
+Number of times primary variables were changed:10000 
+Average time:0.38380353450775145 
+standard dev:0.06745589421948692 
+Minimum time:0.32884883880615234 
+Maximum time:0.566180944442749 
+correct sums:100% 
+ 
+11.  Number of primary variables:10000 
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:4 
+Number of times primary variables were changed:10000 
+Average time:0.1004717206954956 
+standard dev:0.048713800421825465 
+Minimum time:0.06093311309814453 
+Maximum time:0.2409510612487793 
+correct sums:30% 
+ 
+12.  Number of primary variables:10000 
+Locks:no 
+Number of elements summed to a secondary variable:2 
+Number of Threads:1 
+Number of times primary variables were changed:10000 
+Average time:0.07101256132125855 
+standard dev:0.01124643914001427 
+Minimum time:0.0550990104675293 
+Maximum time:0.10800313949584961 
+correct sums:100% 
+
+CONCLUSION: For the values i used, it seems that parallelizing wasn't necessary
